@@ -2,7 +2,7 @@ VERSION = 3
 PATCHLEVEL = 0
 SUBLEVEL = 8
 EXTRAVERSION =
-NAME = FKernel
+NAME = F Kernel
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
